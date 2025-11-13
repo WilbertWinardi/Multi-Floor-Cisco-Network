@@ -4,13 +4,13 @@ A comprehensive multi-floor network infrastructure project designed and implemen
 
 ## 📋 Project Overview
 
-This repository contains a Computer Network project (AOL - Algorithms and Object-Oriented Programming Lab) that simulates a multi-floor building network infrastructure using Cisco networking equipment and protocols.
+This repository contains a Computer Network project that simulates a multi-floor building network infrastructure using Cisco networking equipment and protocols.
 
 ## 📁 Repository Contents
 
 - **Cisco AOL ComNet.pkt** - The main Cisco Packet Tracer simulation file containing the complete multi-floor network topology, device configurations, and network design.
 
-- **PPT - AOL Computer Network.pdf** - A comprehensive presentation (20 pages) documenting the project design, implementation details, network architecture, and technical specifications.
+- **PPT - AOL Computer Network.pdf** - A comprehensive presentation (49 pages) documenting the project design, implementation details, network architecture, and technical specifications.
 
 - **Link Video Presentasi.txt** - Contains the link to the video presentation demonstrating the network implementation and explaining the project in detail.
 
@@ -58,11 +58,8 @@ This multi-floor network implementation may include:
 
 - Multi-floor network topology
 - Router and switch configurations
-- VLAN implementation
-- Inter-VLAN routing
 - DHCP services
 - Static and dynamic routing protocols
-- Network security configurations
 - End-device connectivity across floors
 
 *Note: Refer to the PDF presentation and Packet Tracer file for specific implementation details.*
